@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Inside the Eye of the Storm</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Inside the Eye of the Storm</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>  <!-- Assuming 'index.html' is your home page -->
+                <li><a href="contact.html">Contact</a></li>
+                <li><a href="privacy.html">Privacy Policy/Terms</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <!-- Main content will go here (for the homepage, index.html) -->
+    </main>
+
+    <footer>
+        <p>&copy; 2023 Inside the Eye of the Storm. All rights reserved.</p>
+    </footer>
+</body>
+</html>
+
+
+<!-- contact.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Inside the Eye of the Storm - Contact Us</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Inside the Eye of the Storm</h1>
+        <nav>
+            <!-- Navigation links (same as in main HTML) -->
+        </nav>
+    </header>
+
+    <main>
+        <h2>Contact Us</h2>
+        <p><strong>Email:</strong> contact@insidetheeyeofthestorm.com</p>
+        <p><strong>Phone:</strong> (123) 456-7890</p>
+        <p><strong>Address:</strong> 123 Main Street, Anytown, CA 12345</p>
+
+        <h2>Social Media</h2>
+        <ul>
+            <li><a href="https://www.facebook.com/yourpage" target="_blank">Facebook</a></li>
+            <li><a href="https://www.twitter.com/yourpage" target="_blank">Twitter</a></li>
+            <li><a href="https://www.instagram.com/yourpage" target="_blank">Instagram</a></li>
+            <!-- Add other social media links as needed -->
+        </ul>
+    </main>
+
+    <footer>
+        <p>&copy; 2023 Inside the Eye of the Storm. All rights reserved.</p>
+    </footer>
+</body>
+</html>
+
+
+<!-- privacy.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Inside the Eye of the Storm - Privacy Policy/Terms of Service</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Inside the Eye of the Storm</h1>
+        <nav>
+            <!-- Navigation links (same as in main HTML) -->
+        </nav>
+    </header>
+
+    <main>
+        <h2>Privacy Policy</h2>
+        <p> [Insert your privacy policy here.  Be sure to consult legal counsel for accurate and compliant wording.] </p>
+
+        <h2>Terms of Service</h2>
+        <p> [Insert your terms of service here.  Consult legal counsel for accurate and compliant wording.] </p>
+    </main>
+
+    <footer>
+        <p>&copy; 2023 Inside the Eye of the Storm. All rights reserved.</p>
+    </footer>
+</body>
+</html>
