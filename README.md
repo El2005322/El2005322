@@ -22,7 +22,7 @@
         <h2>Contact Us</h2>
         <p>If you have any questions, feel free to reach out to us:</p>
         <ul>
-            <li><strong>Email:</strong> contact@example.com</li>
+            <li><strong>Email:</strong> Ayti@gmail.com</li>
             <li><strong>Phone:</strong> +1 (555) ,36578909</li>
             <li><strong>Address:</strong> 123 Main Street,Legazpi,Albay </li>
         </ul>
