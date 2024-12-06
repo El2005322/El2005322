@@ -11,7 +11,7 @@
 <header>
     <h1>Inside the Eye of the Storm</h1>
     <nav>
-        <a href="#contact-us">Contact Us</a>
+        
         
     
 </header>
