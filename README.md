@@ -12,9 +12,8 @@
     <h1>Inside the Eye of the Storm</h1>
     <nav>
         <a href="#contact-us">Contact Us</a>
-        <a href="#privacy-policy">Privacy Policy</a>
-        <a href="#terms-of-service">Terms of Service</a>
-    </nav>
+        
+    
 </header>
 
 <div class="container">
