@@ -12,9 +12,9 @@
 
 <header>
     <h1>Inside the Eye of the Storm</h1>
-    <nav>
+    
         
-    </nav>
+    
 </header>
 
 <div class="container">
