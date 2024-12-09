@@ -35,11 +35,7 @@
         </ul>
  
 
-</div>
 
-<footer>
-    <p>&copy; 2024 Inside the Eye of the Storm. All rights reserved.</p>
-</footer>
 
 </body>
 </html>
